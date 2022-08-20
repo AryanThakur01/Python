@@ -1,7 +1,7 @@
 print("Hello world")
 
 '''Using virtual Environment'''
-# pip install virtaul env
+# pip install virtaulenv
 # virtualenv env
 # .\env\Scripts\activate
 # deactivate to close the virtual environment
