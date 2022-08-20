@@ -7,13 +7,13 @@ root = Tk()
 
 '''Setting the size of the GUI Window'''
 # width X height
-root.geometry("444x234")
+root.geometry("400x400")
 
 # width, height
-root.minsize(200, 200)
+root.minsize(300, 300)
 
 # width, height
-root.maxsize(800, 400)
+root.maxsize(600, 600)
 
 
 # LABEL
