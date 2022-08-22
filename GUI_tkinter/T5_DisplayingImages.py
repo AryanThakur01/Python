@@ -7,7 +7,7 @@ root = Tk()
 
 root.geometry("1200x700")
 
-'''For jpg format image'''
+'''For png format image'''
 # photo = PhotoImage(file="car.png")
 # label = Label(image=photo)
 # label.pack()

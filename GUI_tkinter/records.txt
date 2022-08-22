@@ -1,0 +1,4 @@
+('Aryan Thakur', '5423758654', 'Male', '642738', 'Cash', 1)
+('Aryan Thakur', '5423758654', 'Male', '642738', 'Cash', 1)
+('Aryan Thakur', '5423758654', 'Male', '642738', 'Cash', 1)
+('Aryan Thakur', '5423758654', 'Male', '642738', 'Cash', 1)

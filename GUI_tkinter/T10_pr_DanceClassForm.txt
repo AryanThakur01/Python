@@ -1,0 +1,35 @@
+Name = ARYAN THAKUR
+age = 19
+address = Dehradun
+mobile.No = 8077930132
+
+==== X ========== X ====
+
+Name = MEENAL
+age = 19
+address = Delhi
+mobile.No = 7639532684
+
+==== X ========== X ====
+
+Name = SHREYA
+age = 16
+address = Maharashinagar
+mobile.No = 7432347467
+
+==== X ========== X ====
+
+Name = SUSHMITA
+age = 18
+address = 12 nagar palika street niranjanpur
+mobile.No = 8573643097
+
+==== X ========== X ====
+
+Name = ARYAN THAKUR
+age = 19
+address = Chaand Par
+mobile.No = 8849039758
+
+==== X ========== X ====
+
