@@ -15,11 +15,13 @@ root.geometry("1200x700")
 
 
 '''For other image format'''
-image = Image.open("R.jfif")
-photo= ImageTk.PhotoImage(image)
+img = Image.open("R.jfif")
+photo= ImageTk.PhotoImage(img)
 
 label = Label(image=photo)
 label.pack()
+
+
 
 root.mainloop()
 

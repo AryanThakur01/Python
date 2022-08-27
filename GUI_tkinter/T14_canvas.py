@@ -3,11 +3,11 @@ from tkinter import *
 root = Tk()
 root.title("Canvas")
 
-canvas_width = 800
-canvas_height = 400
+canvas_width = 900
+canvas_height = 500
 
 root.geometry(f"{canvas_width}x{canvas_height}")
-can_widget = Canvas(root, width = canvas_width, height = canvas_height)
+can_widget = Canvas(root, width = canvas_width, height = canvas_height, bg = "red")
 can_widget.pack()
 
 '''The line goes from the point x1,y1 to x2,y2'''
